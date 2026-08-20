@@ -1,4 +1,4 @@
-# Tranxit Request Features
+# Taxibooking Request Features
 
 * checking the staging environment
 * Promocode
